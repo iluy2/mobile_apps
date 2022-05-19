@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "164129131484",
+    "project_id": "practice-7-b406f",
+    "storage_bucket": "practice-7-b406f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164129131484:android:a9938e39456abaf75e5d19",
+        "android_client_info": {
+          "package_name": "ru.mirea.lubovsky.mireaproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164129131484-cheokei9l28sdqvvt6irq45rpqmn14u2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXz18X7FJpnUi8W-vfMjaedMGPagO2qno"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "164129131484-cheokei9l28sdqvvt6irq45rpqmn14u2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164129131484:android:9d4692dad382f32f5e5d19",
+        "android_client_info": {
+          "package_name": "ru.mirea.lubovsky.practice_7"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164129131484-cheokei9l28sdqvvt6irq45rpqmn14u2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXz18X7FJpnUi8W-vfMjaedMGPagO2qno"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "164129131484-cheokei9l28sdqvvt6irq45rpqmn14u2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

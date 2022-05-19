@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="@string/menu_gallery" />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/menu_slideshow" />
+        <item
+            android:id="@+id/nav_browser"
+            android:title="@string/browser" />
+        <item
+            android:id="@+id/nav_calculator"
+            android:title="@string/calculator" />
+        <item
+            android:id="@+id/nav_musicPlayer"
+            android:title="@string/music_player" />
+        <item
+            android:id="@+id/nav_sensors"
+            android:title="@string/sensors" />
+        <item
+            android:id="@+id/nav_makePhoto"
+            android:title="@string/make_photo" />
+        <item
+            android:id="@+id/nav_recordAudio"
+            android:title="@string/record_audio" />
+        <item
+            android:id="@+id/nav_stories"
+            android:title="@string/stories" />
+        <item
+            android:id="@+id/nav_settings"
+            android:title="@string/settings" />
+        <item
+            android:id="@+id/nav_externalTime"
+            android:title="@string/external_time" />
+    </group>
+</menu>
